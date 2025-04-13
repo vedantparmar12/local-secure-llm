@@ -4,7 +4,7 @@ A simple API wrapper for Ollama's language models using FastAPI with API key aut
 
 ## Features
 
-- REST API to interact with locally running Ollama models
+- Fast API to interact with locally running Ollama models
 - API key authentication system
 - Credit-based usage tracking
 - Easy customization and extension
